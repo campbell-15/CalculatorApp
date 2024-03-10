@@ -57,7 +57,15 @@ button {
 .equal {
     width: 115px;
     border-radius: 40px;
-    background-color: #ecf0f3;
+    background-color: mediumseagreen;
     box-shadow: inset 5px 5px 12px #ffffff,
                         5px 5px 12px rgba(0,0,0,.16);
+}
+
+.clear {
+    background-color: cornflowerblue ;
+}
+
+.delete {
+    background-color: crimson;
 }
